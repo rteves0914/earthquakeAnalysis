@@ -130,3 +130,5 @@ dmypy.json
 
 # API Key
 static/js/config.js
+
+*.DS_Store
