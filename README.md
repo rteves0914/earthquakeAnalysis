@@ -8,8 +8,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 In this project, I use a javascript package called Leaflet, along with an API call to USGS, to pull in data that shows all earthquakes in the past week, and display them on a map of the world. Each marker for an earthquake is given as a circle, with the color of the circle depending on the depth of the earthquake and the radius of the circle on the magnitude of the earthquake. The map and corresponding markers for the earthquakes is rendered in a web page that is served using CSS and HTML. Each marker is clickable and will show the location of the earthquake along with its magnitude.
 
-![](images/image_world_lightmap)
+![](images/image_world_lightmap.png)
 
-![](images/image_world_satellite)
+![](images/image_world_satellite.png)
 
-![](images/image_US_lightmap)
+![](images/image_US_lightmap.png)
