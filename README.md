@@ -1,4 +1,4 @@
-# leaflet-challenge
+Earthquakes Around the World
 
 Have you ever wondered where NOT to live?? Some locations are more prone to earthquakes, and some places are prone to having very large earthquakes.
 
